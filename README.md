@@ -1,6 +1,9 @@
 # PowerPlay
 PowerPlay is an offline, Self Tailored Cricket Data Analysis Software.
 
+Contributors:
+Nabeel Mirza - https://github.com/SBSixteen
+
 ## Features:
 
 ### Attractive & Efficient GUI:
