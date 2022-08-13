@@ -42,13 +42,13 @@ It allows the user to check the in-depth stats of the Match according to the Tou
 
 Team Viewer is designed to catch the in-depth stats of the teams included in Database. Moreover, Top 5 Batsmans and Bowlers are also shown according to the current stats.
 
-<a href="https://ibb.co/D1wgg6j"><img src="https://i.ibb.co/NFWnnkG/Screenshot-5.png" alt="Screenshot-5" border="0"></a>
+<a href="https://ibb.co/D1wgg6j"><img src="https://i.ibb.co/D1wgg6j/Screenshot-5.png" alt="Screenshot-5" border="0"></a>
 
 ### Player Viewer:
 
 Beside having an attractive GUI, Player Viewer focuses on the performance of each individual of the Team.
 
-<a href="https://ibb.co/hyR7JRd"><img src="https://i.ibb.co/s2vmdv1/Screenshot-6.png" alt="Screenshot-6" border="0"></a>
+<a href="https://ibb.co/hyR7JRd"><img src="https://i.ibb.co/hyR7JRd/Screenshot-6.png" alt="Screenshot-6" border="0"></a>
 
 
 
